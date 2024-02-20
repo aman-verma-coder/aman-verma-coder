@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Aman Verma</h2>
+<h1 align="center">Hi 👋, I'm Aman Verma</h1>
 <h3 align="center">A passionate FullStack Developer from Kolkata, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-verma-coder&label=Profile%20views&color=0e75b6&style=flat" alt="aman-verma-coder" /> </p>
