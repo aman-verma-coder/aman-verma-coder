@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [A Job, Hackathon and Mentorship Website Project](https://github.com/aman-verma-coder/Job-Mentorship-and--Hackathon-Website)
 
-- 🌱 I’m currently learning **ReactJs and Tailwind CSS**
+- 🌱 I’m currently learning **Java, ReactJs and Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-aman.netlify.app/](https://personal-portfolio-aman.netlify.app/)
 
